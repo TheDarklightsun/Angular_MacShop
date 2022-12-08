@@ -1,0 +1,73 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "MacBook Pro",
+      "price": "1200",
+      "year": "2020",
+      "image": "assets/images/macbook.jpeg",
+      "configure": {
+        "chip": "M2",
+        "ssd": "128 Gb",
+        "memory": "16 GB",
+        "display": "Retina"
+      }
+    },
+    {
+      "id": 2,
+      "title": "MacBook Air",
+      "price": "2900",
+      "year": "2020",
+      "image": "assets/images/macbook.jpeg",
+      "configure": {
+        "chip": "M1",
+        "ssd": "2 TB",
+        "memory": "32 GB",
+        "display": "Retina"
+      }
+    },
+    {
+      "id": 3,
+      "title": "MacBook Pro (intel)",
+      "price": "1800",
+      "year": "2018",
+      "image": "assets/images/macbook.jpeg",
+      "configure": {
+        "chip": "M1",
+        "ssd": "1 TB",
+        "memory": "16 GB",
+        "display": "Retina"
+      }
+    }
+  ],
+  "basket": [
+    {
+      "id": 1,
+      "title": "MacBook Pro",
+      "price": "1200",
+      "year": "2020",
+      "image": "assets/images/macbook.jpeg",
+      "configure": {
+        "chip": "M2",
+        "ssd": "128 Gb",
+        "memory": "16 GB",
+        "display": "Retina"
+      },
+      "quantity": 1
+    },
+    {
+      "id": 3,
+      "title": "MacBook Pro (intel)",
+      "price": "1800",
+      "year": "2018",
+      "image": "assets/images/macbook.jpeg",
+      "configure": {
+        "chip": "M1",
+        "ssd": "1 TB",
+        "memory": "16 GB",
+        "display": "Retina"
+      },
+      "quantity": 1
+    }
+  ]
+}
